@@ -51,32 +51,6 @@ This project implements a **Brain Cancer Detector** using Convolutional Neural N
     - Matplotlib
     - Tkinter
 
-### Steps
-1. Clone the repository:
-    ```bash
-    git clone <repository-url>
-    cd Brain-Cancer-Detector
-    ```
-2. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Download the dataset and place it in the `data` directory with the structure:
-    ```
-    /data
-      /archive
-        /Training
-          /label1
-          /label2
-        /Testing
-          /label1
-          /label2
-    ```
-4. Run the project:
-
-    ```bash
-    python main.py
-    ```
 
 ## Code Structure
 
