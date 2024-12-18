@@ -3,6 +3,13 @@
 ## Overview
 This project implements a **Brain Cancer Detector** using Convolutional Neural Networks (CNNs). The system processes brain scan images to classify them into predefined categories. It supports loading, preprocessing, training, validating, and testing models, as well as making predictions on new images via a graphical interface.
 
+<p align="center">
+  <img src="https://github.com/aaronMulveyAI/Brain-Cancer-Detector/blob/main/images/Tr-gl_0010.jpg" alt="Glioma" width="30%" />
+  <img src="https://github.com/aaronMulveyAI/Brain-Cancer-Detector/blob/main/images/Tr-me_0010.jpg" alt="Meningioma" width="30%" />
+  <img src="https://github.com/aaronMulveyAI/Brain-Cancer-Detector/blob/main/images/Tr-pi_0010.jpg" alt="Pituitary" width="30%" />
+</p>
+
+
 ## Project Workflow
 
 1. **Dataset Preparation**
